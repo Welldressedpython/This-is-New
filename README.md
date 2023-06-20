@@ -1,3 +1,4 @@
 # This-is-New
 1st time repository
-print("NEw Repo!")
+
+Just something about a new readme file.
